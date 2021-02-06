@@ -8,3 +8,5 @@ def square_array(array)
   return array
 end
 
+new = [1,2,3,4]
+puts square_array(new)

@@ -8,4 +8,5 @@ def square_array(array)
   return array
 end
 
-# new_numberws = square_array
+new_numberws = [1,2,3,4]
+puts new_numberws.sqrt

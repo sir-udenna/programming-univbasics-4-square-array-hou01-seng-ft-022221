@@ -8,5 +8,3 @@ def square_array(array)
   return array
 end
 
-new_numberws = Math.sqrt([1,2,3,4])
-puts new_numberws
